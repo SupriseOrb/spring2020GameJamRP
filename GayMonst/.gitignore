@@ -7,12 +7,12 @@
 *~
 *.bak
 
-saves
+**/games/saves/*
 tmp
 cache
 env
 
-log.txt
+**/log.txt
 errors.txt
 traceback.txt
 
